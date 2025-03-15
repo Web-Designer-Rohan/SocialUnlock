@@ -1,0 +1,1 @@
+2024-01-01 12:00:00 - Attack started\n2024-01-01 12:01:00 - Firewall detected
