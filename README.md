@@ -38,7 +38,7 @@ This tool is intended for ethical and educational purposes only. Any misuse of t
     Open your terminal or Termux and navigate to the directory where you saved the `instagram_password_cracker.py` file. Then, execute the following command:
 
     ```bash
-    python instagram_password_cracker.py
+    python run.py
     ```
 
 3.  **Follow the Prompts:**
