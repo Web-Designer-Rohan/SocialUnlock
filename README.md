@@ -1,6 +1,6 @@
 # SocialUnlock - Instagram Password Cracking Simulator (Prank Tool)
 
-![SocialUnlock Logo](image.png)  *(Replace YOUR_IMAGE_HERE.png with your image file)*
+![SocialUnlock Logo](image.png)
 
 SocialUnlock is a simulated Instagram password cracking tool designed for harmless pranks. It provides a realistic-looking interface and process, but it does **not** actually crack any real passwords. This tool is purely for entertainment purposes.
 
